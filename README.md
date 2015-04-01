@@ -34,3 +34,13 @@ When done developing. push then do a pull request
     npm commit -m 'new stuff'
     npm push origin newBranch
     # go to ui and do a pull request
+
+
+## npm and git flow
+
+For my own memory
+
+    npm version [version]
+    npm publish
+    #npm publish makes a git tag
+    git push origin --tags
