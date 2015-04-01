@@ -11,7 +11,7 @@ Then from the root directory of any project with a package.json do:
 # help
 
     pjup --help
-    Usage: /Users/sj/npm-global/bin/pjup [options]
+    Usage: pjup [options]
 
     Options:
       -p, --prefix  new version prefix. only ~ or ^ supported          [default: ""]
