@@ -8,7 +8,7 @@ Then from the root directory of any project with a package.json do:
 
     pjup
 
-# help
+## help
 
     pjup --help
     Usage: pjup [options]
