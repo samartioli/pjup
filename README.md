@@ -2,7 +2,7 @@
 
 Global node utility for interactively keeping your package.json up to date
 
-    npm install -g git
+    npm install -g pjup
 
 Then from the root directory of any project with a package.json do:
 
