@@ -1,0 +1,36 @@
+{
+  "name": "pjup",
+  "version": "1.0.0",
+  "description": "Global node utility for interactively keeping your package.json up to date. ",
+  "main": "./lib/pjup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pjup": "./bin/pjup"
+  },
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samartioli/pjup.git"
+  },
+  "keywords": [
+    "package",
+    "json"
+  ],
+  "author": "Sam Artioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samartioli/pjup/issues"
+  },
+  "homepage": "https://github.com/samartioli/pjup",
+  "dependencies": {
+    "async": "^0.9.0",
+    "inquirer": "^0.8.2",
+    "lodash": "^3.6.0",
+    "q": "^1.2.0",
+    "shelljs": "^0.4.0",
+    "small": "^0.1.1",
+    "yargs": "^3.6.0"
+  }
+}
