@@ -1,6 +1,6 @@
 {
   "name": "pjup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global node utility for interactively keeping your package.json up to date. ",
   "main": "./lib/pjup.js",
   "scripts": {
